@@ -6,7 +6,7 @@ Wirtschaftsinformatik B.Sc., 3. Semester
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-…
+Bisher habe ich erste Erfahrungen mit Java gesammelt. Ich habe einfache Programme geschrieben und dabei Grundlagen wie Variablen, Bedingungen, Schleifen, Methoden und Klassen kennengelernt. Mit Git und gemeinsamer Softwareentwicklung habe ich bisher noch wenig Erfahrung.
 
 ## Das erwarte ich von der Veranstaltung
 
